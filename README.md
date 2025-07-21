@@ -92,7 +92,7 @@
 📁 Folder Structure
 
 🔙 Backend
-
+```
     backend/
 ├── controllers/
 │   ├── commentController.js
@@ -152,6 +152,7 @@ frontend/
 │   └── index.html
 ├── tailwind.config.js
 └── package.json
+```
 
 🌱 Future Scope
 💬 Comment replies and likes
